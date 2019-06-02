@@ -1,0 +1,1 @@
+## GraphQL API for interacting with the Pursuit Ministries Prayer Request Database
